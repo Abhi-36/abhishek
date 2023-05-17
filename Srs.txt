@@ -1,0 +1,46 @@
+Online project management system :
+Introduction
+The online project management system is a web-based application designed to help project managers and teams manage projects more efficiently. The system will provide features for creating and managing projects, give the tasks to team members , tracking progress and also it is help for generating reports.
+
+
+Object :
+ Online Project Mangment System.
+Scope :
+It is help for Oraganization to distributed a project and trackin a all projects on a one server.
+It is helps maintain all record of the project .
+Functional Requirements  Project Management System :
+Profiles :
+Profile module enables to create profiles that will aid students in supervisor selection. Employ can see the profile of supervisors and can send requests to them.Supervisors can respond to employ requests according to their available slots.
+Notification :
+This module has real-time push notification features. Supervisors can use these features for sending meeting schedules to students in real-time. Employ can receive the meeting schedule at the same time it was generated. This help for a Employ.
+Chats :
+This feature enables the communication between Employ. Students can communicate with their group members. They can do a discussion about projects by using this module.SRS documents are essential for defining the scope and functionality of software projects.
+Feedback :
+Feedback modules enable supervisors to give feedback to Employ on their evaluated project module. This feature not only saves the time of Employ and supervisors but also helps Employ to align their performance if they are lacking.
+
+ project management system:
+User Requirements
+The system will have the following user types:
+
+Project Manager:
+ A user who creates and manages projects, assigns tasks, and tracks progress.
+Team Member:
+ A user who is assigned tasks and updates progress.
+The system will have the following features:
+Project creation:
+A project manager can create a new project and set its name, description, start date, and end date.
+Task assignment:
+ A project manager can assign tasks to team members and set their deadlines.
+
+Non-Functional Reuirments :
+Security :
+It is help for authenticated for user.No any login without this user , two step verification
+Avilabelity :
+24*7 avilable 
+99.99 
+Maintain store:
+Maintain the all data of the user . After some days ,moths,year use te and check on this.
+Accesibility : 
+Any device any where user acces the server . They WorK on it .
+
+This server it is help for all user it is help for all of this for managing the our projects from any where the want ,also track the project the project  how much part of the project will be completed . 
